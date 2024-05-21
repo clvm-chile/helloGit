@@ -2,3 +2,11 @@ body{
   background-color: antiquewhite;
   color:brown;
 }
+
+p{
+  color:blue;
+}
+
+a{
+  text-decoration: none;
+}
